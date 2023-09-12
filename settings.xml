@@ -1,0 +1,13 @@
+<settings>
+...
+  <servers>
+...
+    <server>
+      <id>my.server</id>
+      <username>foo</username>
+      <password>Oleg reset this password on 2009-03-11, expires on 2009-04-11 {COQLCE6DU6GtcS5P=}</password>
+    </server>
+...
+  </servers>
+...
+</settings>
